@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourGraduationProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_uuid">69ED9E7F-2A52-4806-8442-131FAF252E20</string>
+</resources>
